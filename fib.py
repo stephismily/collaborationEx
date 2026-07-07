@@ -8,6 +8,6 @@ def fib(n):
 
 
 n = int(input())
-
+# changed by shanmu
 for i in range(n):
-    print(fib(i), end=" ")
+    print(fib(i), end=" ") 
