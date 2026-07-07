@@ -5,7 +5,7 @@ def fib(n):
         return 1
     else:
         return fib(n-1)+fib(n-2)
-
+#command added by anu
 
 n = int(input())
 # changed by shanmu
